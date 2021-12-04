@@ -114,9 +114,10 @@ body {
 #contact1 { display: flex }
 
 #p6 {
-    width: 200px;
+    width: 400px;
         Height: 300px;
     font-size: 150%;
+    display: align-left;
 }
 
 
