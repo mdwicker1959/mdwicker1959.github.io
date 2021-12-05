@@ -100,9 +100,8 @@ button {
     height: 300px;
 }
 
-body {
-    
-    background-image: linear-gradient (45deg, cornsilk, tan);
+body {    
+    background-image: linear-gradient(45deg, cornsilk, tan);
     }
 #f1 {
     text-align: center;
