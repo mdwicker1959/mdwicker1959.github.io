@@ -74,6 +74,9 @@ button {
         cursor: pointer;
         
     } 
+#buttons {
+    display:flex;
+}
 
 #box1 {    
     display: flex;
