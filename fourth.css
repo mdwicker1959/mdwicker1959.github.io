@@ -63,6 +63,7 @@ button {
     background-color: aquamarine; 
     border: 4px inset;
     align:auto;
+    margin-left: 50px;
 }
 
     button:hover {
