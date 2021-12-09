@@ -64,9 +64,7 @@ p {
     } 
 
 #buttons {
-    display:flex;
-    justify-content: flex-center;
-     width: 150px;
+    width: 150px;
     color: brown;  
     background-color: aquamarine; 
     border: 4px inset;
