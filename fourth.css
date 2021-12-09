@@ -62,7 +62,7 @@ button {
     color: brown;  
     background-color: aquamarine; 
     border: 4px inset;
-    align:center;
+    margin-top: 50px;
     }
 
     button:hover {
