@@ -62,9 +62,8 @@ button {
     color: brown;  
     background-color: aquamarine; 
     border: 4px inset;
-    align:auto;
-    margin-left: 50px;
-}
+    align:center;
+    }
 
     button:hover {
         color: brown;
