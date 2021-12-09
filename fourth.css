@@ -76,6 +76,7 @@ button {
     } 
 #buttons {
     display:flex;
+    align:center;
 }
 
 #box1 {    
