@@ -63,7 +63,7 @@ p {
         cursor: pointer;        
     } 
 
-buttons {
+button {
     width: 150px;
     color: brown;  
     background-color: aquamarine; 
