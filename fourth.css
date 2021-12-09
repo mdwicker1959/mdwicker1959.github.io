@@ -119,4 +119,8 @@ body {
     font-size: 150%
 }
 
-#month { display:align-right }
+#month { 
+    display:align-right ;
+}
+
+
