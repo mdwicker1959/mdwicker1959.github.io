@@ -73,6 +73,9 @@ button {
     margin-right:50px;
 }
 
+#fixButton {
+    margin-left: 200px;
+
 #box1 {    
     display: flex;
 }
