@@ -65,7 +65,7 @@ p {
 
 #box4 {
     display: flex;
-    align-content=center;
+    justify-content:center;
     width: 150px;
     color: brown;  
     background-color: aquamarine; 
