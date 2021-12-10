@@ -77,6 +77,7 @@ button {
 .flex-container {
     display:flex;
     justify-content:center;
+}
 
 #box1 {    
     display: flex;
