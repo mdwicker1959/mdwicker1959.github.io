@@ -74,9 +74,9 @@ button {
     margin-right:50px;
 }
 
-#fixButton {
-    margin-left: 125px;
-}
+.flex-container {
+    display:flex;
+    justify-content:center;
 
 #box1 {    
     display: flex;
