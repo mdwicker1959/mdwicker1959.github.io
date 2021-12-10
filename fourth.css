@@ -33,8 +33,7 @@ img {
 
 #p1 {
     width: 300px;
-    height: 200px;
-    
+    height: 200px;    
 }
 
 #p2 {
@@ -53,10 +52,8 @@ img {
 
 p {
     color: black;
-    padding: 10px;
-    
-    
-}
+    padding: 10px;  
+   }
 
     button:hover {
         color: brown;
@@ -95,6 +92,7 @@ button {
     width: 400px;
     height: 300px;
 }
+
 #img8 {
     height:300px;
 }
@@ -103,6 +101,7 @@ button {
     width: 400px;
     height: 300px;
 }
+
 #img7 {
     width: 200px;
     height: 300px;
@@ -111,21 +110,24 @@ button {
 body {    
     background-image: linear-gradient(45deg, cornsilk, tan);
     }
+
 #f1 {
     text-align: center;
     height: 50px;
 }
 
-#contact1 { display: flex }
-
+#contact1 {
+    display: flex;
+}
 
 #img9 {
     display: align-right;
 }
-#p10 {width: 500px;
-    display : align-left;
-    font-size: 150%
 
+#p10 {
+    width: 500px;
+    display : align-left;
+    font-size: 150%;
 }
 
 
