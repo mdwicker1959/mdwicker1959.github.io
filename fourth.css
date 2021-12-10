@@ -63,7 +63,9 @@ p {
         cursor: pointer;        
     } 
 
-button {
+#box4 {
+    display: flex;
+    align-content=center;
     width: 150px;
     color: brown;  
     background-color: aquamarine; 
