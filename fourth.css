@@ -11,7 +11,7 @@ h2 {
 h1 {
     height: 150px;
     font-size: 100px;
-    border-width: 3px;
+    border-width: 3px inset;
     border-color: brown;
     border-style: solid;
     text-align: center;
