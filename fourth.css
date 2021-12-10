@@ -91,6 +91,10 @@ button {
 #box3 {
     display:flex;
 }
+
+#box4 {
+    display:flex;
+}
    
 #p4 {
     width: 400px;
