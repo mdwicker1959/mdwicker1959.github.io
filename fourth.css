@@ -80,7 +80,7 @@ button {
     display: flex;
 }
 
-#box2 {
+#box2, #box4 {
     display: flex;
     background-color: aquamarine;
     border-width: 3 px;
@@ -92,9 +92,6 @@ button {
     display:flex;
 }
 
-#box4 {
-    display:flex;
-}
    
 #p4 {
     width: 400px;
