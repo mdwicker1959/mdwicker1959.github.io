@@ -154,20 +154,34 @@ body {
 
 #box10 {
     display:flex;
+    border-style:solid;
+    border-width:3px;
+    border-color:brown;
 }
 
 #box11 {
     display:flex;
     align:right;
+    border-style:solid;
+    border-width:3px;
+    border-color:brown;
+    background-color: aquamarine;
 }
 
 #box12 {
     display:flex;
+    border-style:solid;
+    border-color:brown;
+    border-width:3px;
 }
 
 #box13 {
     display:flex;
     align:right;
+    border-style:solid;
+    border-color:brown;
+    border-width:3px;
+    background-color:aquamarine;
 }
 
 
