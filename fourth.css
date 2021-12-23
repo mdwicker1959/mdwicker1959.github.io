@@ -165,8 +165,7 @@ body {
     border-width:3px;
     border-color:brown;
     background-color:aquamarine;
-    display:align-right;
-}
+ }
 
 #box12 {
     display:flex;
@@ -180,8 +179,7 @@ body {
     border-style:solid;
     border-color:brown;
     border-width:3px;
-    background-color:aquamarine;
-    display:align-right;
+    background-color:aquamarine;    
 }
 
 
