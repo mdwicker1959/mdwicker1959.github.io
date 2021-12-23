@@ -152,6 +152,25 @@ body {
     height:300px;
 }
 
+#box10 {
+    display:flex;
+}
+
+#box11 {
+    display:flex;
+    align:right;
+}
+
+#box12 {
+    display:flex;
+}
+
+#box13 {
+    display:flex;
+    align:right;
+}
+
+
 
 
 
