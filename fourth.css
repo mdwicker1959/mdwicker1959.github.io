@@ -6,12 +6,13 @@ h2 {
 #p100, #p102, #p101, #p10 {
     color:yellow;
 }
+   
 
 .footer {
     color:red;
 }
 
-#jeepjanuary {
+#jeepjanuary, #daytona3 {
     display:flex;
     background-color:aquamarine;
     border-width: 3 px;
