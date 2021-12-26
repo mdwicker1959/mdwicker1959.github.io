@@ -6,7 +6,9 @@ h2 {
 #p100, #p102, #p101, #p10 {
     color:yellow;
 }
-   
+   #p200 {
+       margin-left:20px;
+}
 
 .footer {
     color:red;
