@@ -66,9 +66,14 @@ img {
    margin-bottom:40px;
 }
 
-#p1, #p2, #p3, #daytona1 {
+#p1, #p2, #p3, {
     width: 300px;
     height: 200px;    
+}
+
+#daytona1 {
+    height:200px;
+    width:200px;
 }
 
 p {
