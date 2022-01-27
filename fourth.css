@@ -106,6 +106,7 @@ button {
 
 #box1 {    
     display: flex;
+    justify-contents:center;
 }
 
 #box2, #box4 {
