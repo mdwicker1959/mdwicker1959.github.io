@@ -57,6 +57,8 @@ h1 {
     padding-right: 100px;
     padding-top: 25px;
     border-radius:50%;
+    flex-grow:1;
+    flex-wrap:wrap;
 }
 
 img {
@@ -101,10 +103,8 @@ button {
 
 .flex-container {
     display:flex;
-    justify-content:center;
-    flex-grow:1;
-    flex-wrap:wrap;
-}
+    justify-content:center;  
+    }
 
 #box1 {    
     display: flex;
