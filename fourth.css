@@ -43,11 +43,10 @@ h2 {
 
 h1 {
     height: 150px;
-    font-size: 400%;
+    font-size: 100px;
     border-width: 3px;
     border-color: brown;
     border-style: solid;
-    text-align: center;
     color:brown;
     background-color: aquamarine;
     margin-top: 60px;
