@@ -221,12 +221,12 @@ body {
     }
     
     h1 {
-        width:150%
+        width:100%
         font-size:150%;    
     }
     h2 {
         width:100%
-        font-size:100%;
+        font-size:75%;
     }
 }
 
