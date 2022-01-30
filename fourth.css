@@ -213,7 +213,19 @@ body {
     border-width:3px;
     background-color:aquamarine;    
 }
-
+ 
+@media (max-width:750px) {
+    .box {
+        flex-direction:column;
+    }
+    
+    h1 {
+        width:150%
+    }
+    h2 {
+        width:100%
+    }
+}
 
 
 
