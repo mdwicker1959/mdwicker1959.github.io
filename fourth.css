@@ -39,6 +39,7 @@ h2 {
 
 #p5 {
    font-size:75px;
+    color:brown;
 }
 
 h1 {
@@ -54,8 +55,7 @@ h1 {
     margin-right: auto;
     text-align:center;
     border-radius:50%;
-    padding-top:25Px;
-   
+    padding-top:25Px;   
 }
 
 img {
@@ -90,7 +90,7 @@ p {
     margin-top:40px;
    }
 
-    button:hover {
+ button:hover {
         color: brown;
         background-color: skyblue;
         cursor: pointer;        
