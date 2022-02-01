@@ -63,11 +63,20 @@ img {
    margin-right: 80px;
    margin-top:40px;
    margin-bottom:40px;
-}
+   }
 
 #p1, #p2, #p3 {
     width: 300px;
-    height: 200px;    
+    height: 200px;
+    .thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+    }
 }
 
 #daytona1 {
