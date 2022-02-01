@@ -232,6 +232,9 @@ body {
         margin-right:10px;
 }
 
+       .flex-container {
+           flex-direction:column;
+    }
 
 
 
