@@ -96,6 +96,8 @@ button {
     margin-right:50px;
     border-color: brown;
     border-radius:45%;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 .flex-container {
