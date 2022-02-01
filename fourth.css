@@ -72,6 +72,8 @@ img {
 
 .thumbnail:hover {
     position:relative;
+    top:-25px;
+    left:-35px;
     width:700px;
     height:auto;
     display:block;
