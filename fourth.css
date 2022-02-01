@@ -6,7 +6,8 @@ h2 {
 #p100, #p102, #p101, #p10 {
     color:yellow;
 }
-   #p200 {
+
+#p200 {
        margin-left:20px;
 }
 
@@ -37,8 +38,7 @@ h2 {
 }
 
 #p5 {
-    text-align: center;
-    font-size: 175%;
+   font-size:75px;
 }
 
 h1 {
