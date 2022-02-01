@@ -225,7 +225,7 @@ body {
     background-color:aquamarine;    
 }
  
-@media (max-width:750px) {
+@media (min-width:376px) and (max-width:750px) {
     .box {
         flex-direction:column;
         justify-content:center;
@@ -255,6 +255,46 @@ body {
     margin-top:5px;
     margin-bottom:5px;
 }
+    
+    @media (max-width:375px)  { 
+     
+     .box {
+        flex-direction:column;
+        justify-content:center;
+    }
+    
+    h1 {        
+        font-size:50px;
+        padding-top:50px;
+    }
+    
+    h2 {        
+        font-size:25px;
+    }
+    
+    p {
+        margin-left:10px;
+        margin-right:10px;
+}
+
+       .flex-container {
+           flex-direction:column;
+    }
+    
+    button {
+    margin-left:5px;
+    margin-right:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+        
+        #box2 {
+            align-items:center;
+        }
+        
+        #box3 {
+            align-items:center;
+        }
 
 
 
