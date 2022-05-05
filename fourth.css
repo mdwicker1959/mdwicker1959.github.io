@@ -3,7 +3,6 @@ h2 {
     margin-left: 50px;
     }
 
-
 #p100, #p102, #p101, #p10 {
     color:yellow;
 }
@@ -24,11 +23,15 @@ h2 {
     border-color: brown;
 }
 
-#jeep100, #jeep110, #jeep120, #jeep130, #jeep140, #jeep150, #jeep160, #jeep170 {
+#jeep100, #jeep110, #jeep120, #jeep130, #jeep140, #jeep150 {
     width:300px;
     height:200px;
 }
 
+#jeep160, #jeep170 {
+    width:350px;
+    height:200px;
+}
 
 #jeep100p, #jeep101p, #jeep102p, #jeep103p {
     color:red;
