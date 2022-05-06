@@ -15,7 +15,7 @@ h2 {
     color:red;
 }
 
-#jeepjanuary, #jeepfebruary, #jeepmarch, #jeepapril, #daytona3 {
+#jeepjanuary, #jeepfebruary, #jeepmarch, #jeepapril, #jeepmay, #daytona3 {
     display:flex;
     background-color:aquamarine;
     border-width: 3 px;
@@ -28,12 +28,12 @@ h2 {
     height:200px;
 }
 
-#jeep160, #jeep170 {
+#jeep160, #jeep170, #jeep180, #jeep190 {
     width:350px;
     height:200px;
 }
 
-#jeep100p, #jeep101p, #jeep102p, #jeep103p {
+#jeep100p, #jeep101p, #jeep102p, #jeep103p, #jeep104p {
     color:red;
 }
 
