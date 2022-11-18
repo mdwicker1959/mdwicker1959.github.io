@@ -24,6 +24,11 @@ body {
     height:300px;
 }
 
+.landscape {
+    width:300px;
+    height:200px;
+}
+
 #palmharborriders {
     color:red;
 }
