@@ -22,11 +22,15 @@ body {
 .portrait {
     width:200px;
     height:300px;
+    margin-left:100px;
+    margin-right:100px;
 }
 
 .landscape {
     width:300px;
     height:200px;
+    margin-left:100px;
+    margin-right:100px;
 }
 
 #palmharborriders {
