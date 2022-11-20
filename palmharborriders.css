@@ -42,3 +42,7 @@ body {
     height:150px;
 }
 
+.flex {
+    display:flex;
+    background-color:aquamarine;
+}
