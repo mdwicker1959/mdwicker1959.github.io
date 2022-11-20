@@ -45,4 +45,7 @@ body {
 .flex {
     display:flex;
     background-color:aquamarine;
+    border-width: 3px;
+    border-color: brown;
+    border-style: solid;
 }
