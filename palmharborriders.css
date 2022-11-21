@@ -48,5 +48,5 @@ body {
     border-width: 3px;
     border-color: brown;
     border-style: solid;
-    justify-content:center;
+    justify-content:space-around;
 }
